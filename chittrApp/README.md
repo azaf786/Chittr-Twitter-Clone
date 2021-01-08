@@ -7,7 +7,6 @@ Extract the zip file, install the dependencies using the command lines below.
 
 
 ```sh
-$ cd path/chittrApp
 $ npm install @material-ui/core
 $ npm install @react-native-community/masked-view
 $ npm install react-navigation/material-bottom-tabs
